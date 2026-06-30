@@ -3,3 +3,4 @@
 
 失败者man 能否成功update 到分支呢？ 这是一个严峻的问题
 八嘎呀路嘻嘻嘻拉拉低
+好烦 github 跟 vscode
